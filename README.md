@@ -7,3 +7,5 @@ class 5 exercise 1
 # - Clone it to your local machine.
 # - Add a `README.md` file with a brief description of the assignment.
 # - Add, commit, and push your changes to GitHub.
+
+# A small change
